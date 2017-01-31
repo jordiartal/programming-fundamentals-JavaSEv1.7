@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preguntas>
+  <pregunta>
+    <enunciado>¿Quién es el crack brasileiro?</enunciado>
+    <respuesta1>Xavi Vidal</respuesta1>
+    <respuesta2>Pedro Porcuna</respuesta2>
+    <respuesta3>Pequeño Nicolas</respuesta3>
+    <respuesta4>Doña Cayetana</respuesta4>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    <enunciado>¿Cuál es la mejor hamburguesa del Bacoa?</enunciado>
+    <respuesta1>Manchega</respuesta1>
+    <respuesta2>Bacoa</respuesta2>
+    <respuesta3>San Jacobo</respuesta3>
+    <respuesta4>Pollo marinado</respuesta4>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <enunciado>Quien és el mejor Programador de Granollers?</enunciado>
+    <respuesta1>Jordi</respuesta1>
+    <respuesta2>Marc</respuesta2>
+    <respuesta3>Pau</respuesta3>
+    <respuesta4>Sonia</respuesta4>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <enunciado>Donde hace más frio</enunciado>
+    <respuesta1>Polo Norte</respuesta1>
+    <respuesta2>Polo Sur</respuesta2>
+    <respuesta3>Siberia</respuesta3>
+    <respuesta4>Cuba</respuesta4>
+    <correcta>3</correcta>
+  </pregunta>
+</Preguntas>

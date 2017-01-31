@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preguntas>
+  <pregunta>
+    <enunciado>Quien es ek crack brasileiro</enunciado>
+    <respuesta1>Xavi Vidal</respuesta1>
+    <respuesta2>Pedro Porcuna</respuesta2>
+    <respuesta3>Pequeño Nicolas</respuesta3>
+    <respuesta4>Doña Cayetana</respuesta4>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    <enunciado>Cual es la mejor hamburguesa del Bacoa</enunciado>
+    <respuesta1>Manchega</respuesta1>
+    <respuesta2>Bacoa</respuesta2>
+    <respuesta3>San Jacobo</respuesta3>
+    <respuesta4>Pollo marinado</respuesta4>
+    <correcta>1</correcta>
+  </pregunta>
+</preguntas>

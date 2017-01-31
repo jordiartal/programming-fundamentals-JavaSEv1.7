@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hamburguesas>
+  <producto codigo="1">
+    <calorias>200.0</calorias>
+    <nombre>Light</nombre>
+    <tipoCarne>vacuno</tipoCarne>
+    <peso>150.0</peso>
+  </producto>
+  <producto codigo="2">
+    <calorias>1000.0</calorias>
+    <nombre>Burger</nombre>
+    <tipoCarne>payaso</tipoCarne>
+    <peso>1500.0</peso>
+  </producto>
+  <producto codigo="3">
+    <calorias>200.0</calorias>
+    <nombre>Zombi</nombre>
+    <tipoCarne>humana</tipoCarne>
+    <peso>375.0</peso>
+  </producto>
+</Hamburguesas>
